@@ -1,0 +1,16 @@
+if Non-Transitional Phase
+	if Earliest Deadline == A:
+		Next Phase = A
+		if Current Phase == B:
+			set A-B transitional phases
+		elif Current Phase == Current
+			set A-C Transitional Phases
+			
+---------Repeat for Phases B and C------
+
+----------------------------------------
+if Transitional Phase
+	if time limit not reached
+		delay of loop detectors of previous phase = 0
+	else
+		set Next Phase

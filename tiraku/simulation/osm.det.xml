@@ -1,0 +1,67 @@
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_1" lane="619523288_0" pos="24"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_2" lane="619523288_1" pos="24"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_3" lane="619523288_2" pos="24"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_4" lane="619523288_3" pos="24"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_5" lane="gneE6_0" pos="2"/>
+	<e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_6" lane="-61645695_0" pos="0.1"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_7" lane="-61645695_1" pos="0.1"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_8" lane="620377490_0" pos="30"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_9" lane="619523286_0" pos="42"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_10" lane="619523286_1" pos="42"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4235_11" lane="619523286_2" pos="42"/>
+	
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_1" lane="620377506.61_0" pos="78"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_2" lane="620377506.61_1" pos="78"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_3" lane="620377506.61_2" pos="78"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_4" lane="620377506.61_3" pos="78"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_5" lane="gneE1.31_0" pos="27"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_6" lane="gneE1.31_1" pos="27"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_7" lane="619526566_0" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_8" lane="619526566_1" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_9" lane="619526566_2" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_10" lane="619526566_3" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_11" lane="122089525.34_0" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_12" lane="122089525.34_1" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_13" lane="122089525.34_2" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_14" lane="122089525.34_3" pos="28"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_15" lane="547625727_0" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_16" lane="547625727_1" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_17" lane="547625727_2" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_18" lane="547625727_3" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_19" lane="547625727_4" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4219_22" lane="28592678_0" pos="43"/>
+
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_1" lane="gneE78_0" pos="1"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_2" lane="gneE78_1" pos="1"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_3" lane="620377513_0" pos="32"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_4" lane="gneE77_0" pos="30"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_5" lane="gneE77_1" pos="30"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_6" lane="gneE77_2" pos="30"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_7" lane="gneE77_3" pos="30"/>
+	<e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_9" lane="gneE73_0" pos="6"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_10" lane="gneE73_1" pos="6"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_12" lane="gneE74_0" pos="0"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_13" lane="gneE74_1" pos="0"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_14" lane="gneE74_2" pos="0"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4220_15" lane="gneE74_3" pos="0"/>
+	
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_1" lane="gneE83_0" pos="52"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_2" lane="gneE83_1" pos="52"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_3" lane="gneE82_0" pos="47"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_4" lane="gneE82_1" pos="47"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_5" lane="gneE82_2" pos="47"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_6" lane="28573013_0" pos="38"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_7" lane="620377512_0" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_8" lane="620377512_1" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_9" lane="620377512_2" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_10" lane="gneE5_0" pos="2"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_11" lane="28573025.65_0" pos="6"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_12" lane="28573025.65_1" pos="6"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_13" lane="28573025.65_2" pos="6"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_14" lane="28572986_0" pos="30"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_15" lane="7635630#1_0" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_16" lane="7635630#1_1" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_17" lane="7635630#1_2" pos="40"/>
+    <e1Detector file="e1output.xml" freq="60" friendlyPos="x" id="site4221_18" lane="7635630#1_3" pos="40"/>
+</additional>

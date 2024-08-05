@@ -1,0 +1,24 @@
+if Cycle == 0
+	Cycle = 1
+	if Max Density == A:
+		Cycle_1 = A
+		Cycle_1_Duration = A * Duration_Scale
+		if Density B > Density C:
+			Cycle_2 = B
+			Cycle_2_Duration = B * Duration_Scale
+			Cycle_3 = C
+			Cycle_3_Duration = C * Duration_Scale
+		else:
+			Cycle_2 = C
+			Cycle_2_Duration = C * Duration_Scale
+			Cycle_3 = B
+			Cycle_3_Duration = B * Duration_Scale
+
+---------Repeat for Phases B and C------
+
+----------------------------------------
+if Transitional Phase
+	if time limit not reached
+		delay of loop detectors of previous phase = 0
+	else
+		set Next Phase

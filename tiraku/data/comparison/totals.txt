@@ -1,0 +1,16 @@
+EDF:
+timeLoss = 45094.4
+timeStopped = 31750.0
+routes completed = 747
+
+SCATS:
+timeLoss = 54386.48
+timeStopped = 39355.0
+routes completed = 736
+
+RL:
+timeLoss = 42145.13
+timeStopped = 24734.0
+routes completed = 696
+
+
